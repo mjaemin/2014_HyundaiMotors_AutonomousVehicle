@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Console_drcwifi">
+</Property><Property Name="Solution File" Value="C:\Users\KIJ\Desktop\할배_Original\Console_drcwifi.sln">
+</Property><Property Name="User Options File" Value="C:\Users\KIJ\Desktop\할배_Original\Console_drcwifi.suo">
+</Property><Property Name="Date" Value="2014년 7월 9일 수요일">
+</Property><Property Name="Time" Value="오후 15:35">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Console_drcwifi.sln" Description="File successfully backed up as C:\Users\KIJ\Desktop\할배_Original\Console_drcwifi.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Console_drcwifi.suo" Description="File successfully backed up as C:\Users\KIJ\Desktop\할배_Original\Console_drcwifi.suo.old">
+</Event><Event ErrorLevel="3" Project="Console_drcwifi" Source="Console_drcwifi\Console_drcwifi.vcproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Console_drcwifi.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Console_drcwifi.sln" Description="Converted">
+</Event></UpgradeLog>

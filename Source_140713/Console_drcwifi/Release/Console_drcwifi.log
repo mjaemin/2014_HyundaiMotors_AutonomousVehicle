@@ -1,0 +1,35 @@
+﻿빌드 시작: 2014-06-22 오후 1:38:31
+     1>2 노드의 "C:\Users\Son Ho won\Documents\Visual Studio 2010\Projects\Console_drcwifi\Console_drcwifi\Console_drcwifi.vcxproj" 프로젝트(rebuild 대상)입니다.
+     1>_PrepareForClean:
+         "Release\Console_drcwifi.lastbuildstate" 파일을 삭제하고 있습니다.
+       InitializeBuildStatus:
+         "Release\Console_drcwifi.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\Console_drcwifi.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Console_drcwifi.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Console_drcwifi.cpp SerialPort.cpp
+         Console_drcwifi.cpp
+     1>C:\Program Files (x86)\OpenCV\OpenCV230\build\include\opencv2/flann/logger.h(70): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>C:\Program Files (x86)\OpenCV\OpenCV230\build\include\opencv2/flann/dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>C:\Program Files (x86)\OpenCV\OpenCV230\build\include\opencv2/flann/dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>Console_drcwifi.cpp(143): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>Console_drcwifi.cpp(157): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+         SerialPort.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Son Ho won\Documents\Visual Studio 2010\Projects\Console_drcwifi\Release\Console_drcwifi.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Console_drcwifi.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Son Ho won\Documents\Visual Studio 2010\Projects\Console_drcwifi\Release\Console_drcwifi.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Son Ho won\Documents\Visual Studio 2010\Projects\Console_drcwifi\Release\Console_drcwifi.lib" /MACHINE:X86 Release\Console_drcwifi.obj
+         Release\SerialPort.obj
+         Release\stdafx.obj
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         Console_drcwifi.vcxproj -> C:\Users\Son Ho won\Documents\Visual Studio 2010\Projects\Console_drcwifi\Release\Console_drcwifi.exe
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Son Ho won\Documents\Visual Studio 2010\Projects\Console_drcwifi\Release\Console_drcwifi.exe;#1" /manifest Release\Console_drcwifi.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         "Release\Console_drcwifi.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Release\Console_drcwifi.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\Son Ho won\Documents\Visual Studio 2010\Projects\Console_drcwifi\Console_drcwifi\Console_drcwifi.vcxproj" 프로젝트를 빌드했습니다(rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.62
