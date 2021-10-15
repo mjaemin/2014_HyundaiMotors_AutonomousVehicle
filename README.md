@@ -22,7 +22,7 @@
 
 As a result, our team won the championship in 2014.🏆
 
-**The missions are,**
+**The missions are**
 
 - Traffic lights and stop line
 - Obstacle on the road
@@ -30,7 +30,7 @@ As a result, our team won the championship in 2014.🏆
 - Parking signal detection
 - Rear parking
 
-**Applied technologies are,**
+**Applied technologies are**
 
 - OpenCV image processing (DRC wifi camera)
 - Sensor (ultra-sonic, infrared sensor)
