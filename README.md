@@ -1,10 +1,8 @@
-
-
 ### 🚙Here is the autonomous RC car project
 
 Won the championship in 2014.🥇 (during the research scholarship in Hyundai Motors Company)
 
-**The missions are**
+**The missions are (Refer to videos)****
 
 - Traffic lights and stop line
 - Obstacle on the road
