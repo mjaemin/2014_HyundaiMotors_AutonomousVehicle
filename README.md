@@ -14,6 +14,7 @@ Won the championship in 2014.🥇 (during the research scholarship in Hyundai Mo
 
 **Applied technologies are**
 
+- MCU embeded solution (Freescale board)
 - OpenCV image processing (DRC wifi camera)
 - Sensor (ultra-sonic, infrared sensor)
 - Actuator control (motor, encoder, step-motor)
